@@ -8,10 +8,10 @@ twitter: https://twitter.com/pfedprog
 linkedin: https://www.linkedin.com/in/pavel-fedotov-pinsave/
 github: https://github.com/pfed-prog
 title: "Pavel Fedotov - Dspyt DAO profile"
-description: "Full stack blockchain developer with over 4 years of experience in Rust, Solidity, Python, JavaScript, React and NextJs."
+description: "Full stack blockchain developer with over 6 years of experience in Rust, Solidity, Python, JavaScript, React and NextJs."
 ---
 
-Pavel Fedotov is a seasoned Full Stack Blockchain Developer with over four years of experience in engineering innovative decentralized applications (dApps) across a diverse tech stack. Proficient in Rust, Solidity, Python, JavaScript, TypeScript, React, and Next.js, Pavel has successfully integrated cutting-edge technologies to build scalable solutions that cater to the evolving needs of the decentralized ecosystem.
+Pavel Fedotov is a seasoned Full Stack Blockchain Developer with over six years of experience in engineering innovative decentralized applications (dApps) across a diverse tech stack. Proficient in Rust, Solidity, Python, JavaScript, TypeScript, React, and Next.js, Pavel has successfully integrated cutting-edge technologies to build scalable solutions that cater to the evolving needs of the decentralized ecosystem.
 
 ## Professional Achievements
 
@@ -29,15 +29,16 @@ Pavel Fedotov is a seasoned Full Stack Blockchain Developer with over four years
 ### Speaking Engagements
 
 - Engaged with the global Web3 community as a presenter at several prominent conferences, including:
-  - [ETH Belgrade 2024](https://www.youtube.com/watch?v=QmVJkYCfhak&t=966s&pp=ygUfZXRoIGJlbGdyYWRlIDIwMjQgcGF2ZWwgZmVkb3Rvdg%3D%3D)
-  - [IPFS Camp 2024](https://www.youtube.com/watch?v=RS19_6xpuEI)
-  - [ETH Bucharest 2024](https://www.youtube.com/watch?v=LFvMP7bBnhY)
-  - [Web3 Family Conference](https://youtu.be/QIgxWPk8K00?si=Dbl7LcQSpRkJ2O33)
+  - [ETH Belgrade 2024: Zero Knowledge proofs on Mina, zkPassport and SoulBound NFTs](https://www.youtube.com/watch?v=QmVJkYCfhak&t=966s&pp=ygUfZXRoIGJlbGdyYWRlIDIwMjQgcGF2ZWwgZmVkb3Rvdg%3D%3D)
+  - [IPFS Camp 2024: Building Decentralised Social Media with IPFS](https://www.youtube.com/watch?v=RS19_6xpuEI)
+  - [ETH Bucharest 2024: Zero Knowledge proofs on Mina, zkPassport and SoulBound NFTs](https://www.youtube.com/watch?v=LFvMP7bBnhY)
+  - [Web3 Family Conference: Understanding the Filecoin FVM](https://youtu.be/QIgxWPk8K00?si=Dbl7LcQSpRkJ2O33)
+  - [Crypto x AI Mini Conference: AI Agents, Governance and Prediction Markets](https://www.youtube.com/watch?v=nzcHmhz7q9Q&ab_channel=Valory)
 - These platforms allowed Pavel to share insights on blockchain technology and its practical applications, reflecting a deep knowledge of decentralized ecosystems.
 
 ### Academic Background
 
-Pavel holds a BA in Business Studies and Economics from the University of Manchester, where he graduated with Honors. His academic prowess is evident through his published work, ["Critical analysis of the electric vehicle industry: Five forces and strategic action fields"](https://doi.org/10.31273/eirj.v10i1.362), which garnered over 50,000 downloads, highlighting Pavel's ability to analyze and present complex ideas effectively.
+Pavel holds a BA in Business Studies and Economics from the University of Manchester, where he graduated with Honors. His academic prowess is evident through his published work, ["Critical analysis of the electric vehicle industry: Five forces and strategic action fields"](https://doi.org/10.31273/eirj.v10i1.362), which garnered over 100,000 downloads, highlighting Pavel's ability to analyze and present complex ideas effectively.
 
 ### Data Science and Research Contributions
 
