@@ -8,10 +8,33 @@ twitter: https://twitter.com/pfedprog
 linkedin: https://www.linkedin.com/in/pavel-fedotov-pinsave/
 github: https://github.com/pfed-prog
 title: "Pavel Fedotov - Dspyt DAO profile"
-description: "Full stack blockchain developer with over 6 years of experience in Rust, Solidity, Python, JavaScript, React and NextJs."
+description: "Full Stack Blockchain Developer | Creator of EVM explorer | 6+ Years Building Scalable Web3 Solutions"
 ---
 
-Pavel Fedotov is a seasoned Full Stack Blockchain Developer with over six years of experience in engineering innovative decentralized applications (dApps) across a diverse tech stack. Proficient in Rust, Solidity, Python, JavaScript, TypeScript, React, and Next.js, Pavel has successfully integrated cutting-edge technologies to build scalable solutions that cater to the evolving needs of the decentralized ecosystem.
+## 🚀 Key Contributions
+
+- **Built EVM explorer** - Modular toolkit reducing blockchain explorer development time by 80%
+- **Secured $740k+** in grants for decentralized infrastructure projects
+- **Managed $40M** in delegated assets through DAO governance
+- **Ranked Top 25** in competitive smart contract audits (Code4rena/Sherlock)
+
+---
+
+## 🛠️ Technical Expertise
+
+**Blockchain**  
+`Solidity` `Rust` `EVM` `ZK-Rollups` `ERC Standards` `DAO Governance`
+
+**Web Development**  
+`TypeScript` `React` `Next.js` `Node.js` `GraphQL`
+
+**Data Science**  
+`Python` `Pandas` `SQL` `Data Visualization`
+
+**DevOps**  
+`AWS` `Docker` `CI/CD` `Kubernetes`
+
+---
 
 ## Professional Achievements
 
@@ -20,6 +43,24 @@ Pavel Fedotov is a seasoned Full Stack Blockchain Developer with over six years 
 - Played a key role in the development of [PinSave](https://pinsave.app/), a decentralized version of Pinterest that focuses on user privacy and data ownership.
 - Completed a grant from Filecoin to enhance decentralized identity solutions (ERC-725), integrating it with emerging NFT standards, thereby advancing the landscape of digital identity in Web3.
 - Secured a RetroPGF grant from the Optimism Foundation, achieving an impressive [25 ballots](https://vote.optimism.io/retropgf/3/application/0xc613e2a991ce0dbcf8fae1d6128e67543da9710e14831112fba654cc8fe8c389) for impactful contributions to the decentralized ecosystem.
+
+### **EVM explorer Toolkit**
+
+_Multi-Chain Blockchain Explorer Framework_  
+[Live Demo](https://evmexplorer.com) | [Video Walkthrough](https://youtu.be/Y7fGrxGWwuA)
+
+#### **Achievements**
+
+✅ Reduced development time by 80% with modular SDKs  
+✅ Supports 10+ EVM chains (Ethereum, Polygon, Arbitrum)  
+✅ 1,200+ SDK package downloads in first 3 months
+
+#### **Key Features**
+
+- Unified transaction history across chains
+- Climate impact dashboard (BTC/ETH energy metrics)
+- Pre-built integrations for Uniswap/AAVE
+- ENS address resolution & API fallback system
 
 ### Arbitrum Governance
 
