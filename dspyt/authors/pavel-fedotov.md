@@ -26,6 +26,10 @@ Pavel Fedotov is a seasoned Full Stack Blockchain Developer with over six years 
 - Achieved recognition in the governance processes of Arbitrum by receiving approximately 20 million delegated ARB tokens, equivalent to USD 40 million, during two pivotal committee elections.
 - Active on multiple governance fronts, including applications to the [Arbitrum Procurement Committee](https://forum.arbitrum.foundation/t/procurement-committee-application-elections-on-snapshot/20536/3) and the [Arbitrum Research & Development Collective](https://forum.arbitrum.foundation/t/arbitrum-research-development-collective-elections-applications/20805/3), further emphasizing a commitment to the growth and sustainability of decentralized protocols.
 
+### Security Research
+
+- Ranked **#21** in [Code4rena’s Neo Tokyo audit contest](https://code4rena.com/contests/2023-03-neo-tokyo), identifying critical vulnerabilities and earning 29.67 USDC ([Sherlock Profile](https://audits.sherlock.xyz/watson/pfedprog)).
+
 ### Speaking Engagements
 
 - Engaged with the global Web3 community as a presenter at several prominent conferences, including:
