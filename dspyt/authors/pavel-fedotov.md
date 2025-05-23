@@ -15,7 +15,7 @@ description: "Full Stack Blockchain Developer | Creator of EVM explorer | 6+ Yea
 
 - **Built EVM explorer** - Modular toolkit reducing blockchain explorer development time by 80%
 - **Secured $740k+** in grants for decentralized infrastructure projects
-- **Managed $40M** in delegated assets through DAO governance
+- **Driven $40M** in delegated assets through DAO governance
 - **Ranked Top 25** in competitive smart contract audits (Code4rena/Sherlock)
 
 ---
@@ -26,7 +26,7 @@ description: "Full Stack Blockchain Developer | Creator of EVM explorer | 6+ Yea
 `Solidity` `Rust` `EVM` `ZK-Rollups` `ERC Standards` `DAO Governance`
 
 **Web Development**  
-`TypeScript` `React` `Next.js` `Node.js` `GraphQL`
+`TypeScript` `React` `Next.js` `Node.js` `GraphQL` `Redis`
 
 **Data Science**  
 `Python` `Pandas` `SQL` `Data Visualization`
