@@ -5,7 +5,7 @@ smallAvatar: "/authors/pavel-fedotov.webp"
 company: "Dspyt Inc."
 email: pavel@dspyt.com
 twitter: https://twitter.com/pfedprog
-linkedin: https://www.linkedin.com/in/pavel-fedotov-pinsave/
+linkedin: https://www.linkedin.com/in/pavel-fedotov-dspyt/
 github: https://github.com/pfed-prog
 title: "Pavel Fedotov - Dspyt DAO profile"
 description: "Full Stack Blockchain Developer | Creator of EVM explorer | 6+ Years Building Scalable Web3 Solutions"
