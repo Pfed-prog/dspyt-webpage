@@ -46,19 +46,46 @@ export default function HomePage({ posts }) {
     <div>
       <PageSEO />
       <Hero />
-      <h2 className="dspyt-h3xl">Data Science and Blockchain</h2>
-      <div className="grid relative mx-auto mt-12 max-w-lg gap-5 lg:ml-5 lg:mr-5 lg:grid-cols-3 lg:max-w-none">
-        {posts.map((post) => (
-          <Post key={post.slug} post={post} slug={post.slug} />
-        ))}
-      </div>
-      <div className="mx-auto max-w-7xl px-6 text-center lg:px-8 mt-20">
+      <section className="mx-auto max-w-7xl px-6 lg:px-8">
+        <div className="mt-10 sm:mt-12 rounded-2xl bg-white dark:bg-gray-950 border border-gray-200 dark:border-gray-800 p-6 sm:p-8">
+          <h2 className="text-xl sm:text-2xl font-semibold text-gray-900 dark:text-gray-100">
+            What is DSPYT?
+          </h2>
+          <p className="mt-2 text-sm sm:text-base text-gray-600 dark:text-gray-300">
+            DSPYT is a community‑driven blog and research hub focused on data
+            science, blockchain, and the tools that connect them. We publish
+            field notes, experiments, and practical guides.
+          </p>
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-6 lg:px-8 mt-12 sm:mt-16">
+        <div className="flex items-end justify-between gap-4">
+          <h2 className="dspyt-h3xl">Latest posts</h2>
+          <Link
+            href="/blog"
+            className="text-sm sm:text-base font-semibold text-cyan-700 hover:text-cyan-600 dark:text-cyan-400 dark:hover:text-cyan-300"
+          >
+            View all posts
+          </Link>
+        </div>
+        <div className="grid relative mx-auto mt-8 max-w-lg gap-5 lg:ml-5 lg:mr-5 lg:grid-cols-3 lg:max-w-none">
+          {posts.map((post) => (
+            <Post key={post.slug} post={post} slug={post.slug} />
+          ))}
+        </div>
+      </section>
+
+      <section className="mx-auto max-w-7xl px-6 text-center lg:px-8 mt-20">
         <h2 className="dspyt-h3xl">Meet our team</h2>
-        <ul className="mx-auto mt-20 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
+        <p className="mt-3 text-sm sm:text-base text-gray-600 dark:text-gray-300">
+          Builders, writers, and researchers shaping the DSPYT community.
+        </p>
+        <ul className="mx-auto mt-12 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3">
           {people.map((person) => (
             <li key={person.name}>
               <Image
-                className="mx-auto h-56 w-56 rounded-full"
+                className="mx-auto h-48 w-48 rounded-full"
                 width={400}
                 height={400}
                 src={person.imageUrl}
@@ -132,7 +159,7 @@ export default function HomePage({ posts }) {
             </li>
           ))}
         </ul>
-      </div>
+      </section>
       <div className="mt-20"></div>
     </div>
   );
