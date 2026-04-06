@@ -74,7 +74,7 @@ export default function Footer() {
 
         <div className="mt-8 md:mt-0 md:order-1">
           <p className="text-center text-base text-gray-600 dark:text-gray-300">
-            &copy; 2025 Dspyt
+            &copy; 2026 Dspyt
           </p>
         </div>
       </div>
